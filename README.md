@@ -1,7 +1,7 @@
 # SQL-PROJECT
 SQL project as part of microverse curriculum. Answers of the [SQLzoo tutorial](https://sqlzoo.net/):
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.at%2Fpin%2F112730796898143491%2F&psig=AOvVaw3jEH9JdfBrlsfV-l8wqfUu&ust=1585775790001000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDMwKfRxegCFQAAAAAdAAAAABAD" width="100%" >
+<img src="https://sqlzoo.net/wiki/SQL_Tutorial" width="100%" >
 
 ## Authors
 
